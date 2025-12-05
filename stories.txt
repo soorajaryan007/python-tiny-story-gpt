@@ -1,0 +1,187 @@
+<IN> dragon adventure <OUT> Once upon a time a brave dragon flew over the mountains and saved a little boy.
+<IN> space travel <OUT> A young girl built a rocket and travelled to the stars to meet friendly aliens.
+<IN> jungle animals <OUT> Deep inside the jungle a group of animals learned to help each other.
+<IN> magic forest <OUT> In a glowing magical forest a tiny fairy helped lost travelers find their way.
+<IN> lonely cloud <OUT> A lonely cloud learned to change shape and made friends with birds.
+<IN> tiny robot <OUT> A tiny robot who loved to dance found a child who taught it new moves.
+<IN> talking tree <OUT> A talking tree told stories of old to the children who sat beneath its branches.
+<IN> ocean friends <OUT> A curious fish and a playful dolphin formed a band and sang under the waves.
+<IN> snowy mountain <OUT> A brave climber rescued a lost puppy and they skied down together.
+<IN> secret garden <OUT> Two siblings found a secret garden where flowers whispered wishes.
+<IN> moonlight picnic <OUT> Friends had a moonlight picnic and the stars came to listen to their songs.
+<IN> friendly monster <OUT> A friendly monster who was shy learned to draw pictures and make friends.
+<IN> wish star <OUT> A child wished on a star and helped a lonely comet find its family.
+<IN> tiny elephant <OUT> A tiny elephant used its big heart to cheer up the whole village.
+<IN> rainbow bridge <OUT> After the rain, children crossed a rainbow bridge to visit a candy island.
+<IN> lost kitten <OUT> A baker rescued a lost kitten and the kitten helped bake magical cookies.
+<IN> pirate treasure <OUT> A kind pirate shared his treasure with seaside animals and they all danced.
+<IN> gentle giant <OUT> A gentle giant watered the village gardens and everyone thanked him with songs.
+<IN> music box <OUT> A magic music box played a tune that made flowers bloom and butterflies dance.
+<IN> secret map <OUT> Two friends followed a secret map and discovered a meadow full of laughing stones.
+<IN> brave mouse <OUT> A brave mouse saved the farm by warning everyone about a sneaky fox.
+<IN> flying bicycle <OUT> A flying bicycle gave rides to kids and showed them the hidden rooftops of town.
+<IN> glowing pebble <OUT> A glowing pebble led a child to a hidden pond where frogs told funny jokes.
+<IN> garden party <OUT> The vegetables threw a garden party and the children tasted rainbow salads.
+<IN> tiny witch <OUT> A tiny witch used gentle spells to help flowers find their colors again.
+<IN> moon rabbit <OUT> A moon rabbit hopped to earth and taught children how to make mooncakes.
+<IN> talking fish <OUT> A talking fish taught a boy the secret of breathing underwater for a short time.
+<IN> mountain music <OUT> Wind in the mountain played music and hikers sang along with the trees.
+<IN> playful cloud <OUT> A playful cloud painted shapes in the sky making everyone smile.
+<IN> candy castle <OUT> Children discovered a candy castle where the guard was a friendly gingerbread man.
+<IN> tiny pirate <OUT> A tiny pirate rescued a toy ship and returned it to a child who missed it.
+<IN> starlight library <OUT> In a starlight library books read themselves aloud to sleepy readers.
+<IN> forest picnic <OUT> Animals and children had a forest picnic and shared honey cakes and stories.
+<IN> sleep fairy <OUT> A sleep fairy sprinkled soft dreams and the town slept peacefully all night.
+<IN> clockwork fox <OUT> A clockwork fox who ticked like a clock learned how to tell jokes.
+<IN> rainbow fish <OUT> A rainbow fish taught the sea creatures to make colorful bubbles.
+<IN> friendly dragon <OUT> A friendly dragon became the village heater by blowing warm, safe puffs.
+<IN> moon garden <OUT> In the moon garden, silver flowers sang lullabies to night owls.
+<IN> pebble race <OUT> Children rolled pebbles down a hill and cheered when the littlest pebble won.
+<IN> cloud castle <OUT> A castle made of clouds floated low so children could visit and slide on rainbows.
+<IN> hidden waterfall <OUT> Behind a hidden waterfall, friends found glowing stones that told secrets.
+<IN> singing stones <OUT> Singing stones hummed a tune that helped a shy boy sing on stage.
+<IN> starlight train <OUT> A starlight train chugged through the sky and carried dreams to sleepy towns.
+<IN> tiny gardener <OUT> A tiny gardener watered seeds with song and they grew into giant sunflowers.
+<IN> brave squirrel <OUT> A brave squirrel returned a lost locket and became the hero of the park.
+<IN> wishing well <OUT> A wish from the well turned a rainy afternoon into a street parade.
+<IN> moonlight swing <OUT> Children swung under moonlight and caught silver fireflies to keep as friends.
+<IN> paper boat <OUT> A paper boat sailed a puddle sea and met helpful duck sailors.
+<IN> cozy cabin <OUT> In a cozy cabin, friends roasted marshmallows and told silly stories.
+<IN> star lantern <OUT> A star lantern guided a kitten home through the whispering fields.
+<IN> mini unicorn <OUT> A mini unicorn helped a gardener make the flowers dance every morning.
+<IN> pebble beach <OUT> On a pebble beach, children built tiny cities for tiny crabs.
+<IN> secret door <OUT> A secret door behind a bookshelf led to a room filled with friendly shadows.
+<IN> playful panda <OUT> A playful panda taught children how to juggle bamboo sticks safely.
+<IN> sleepy city <OUT> The sleepy city yawned and the lampposts sang soft lullabies.
+<IN> lantern festival <OUT> At the lantern festival, wishes floated up like glowing bubbles.
+<IN> willow whisper <OUT> The willow tree whispered advice to a boy who wanted to be brave.
+<IN> paper crane <OUT> A paper crane flew far and brought back a letter written in wind.
+<IN> moon choir <OUT> Night animals formed a moon choir and sang songs to the stars.
+<IN> garden cat <OUT> A garden cat guarded the roses and chased away grey clouds.
+<IN> paint rainbow <OUT> Children painted a rainbow that actually shaded the playground from sun.
+<IN> friendly owl <OUT> A friendly owl taught a child to read secret leaf-messages.
+<IN> seaside market <OUT> At the seaside market, shells traded stories for little treasures.
+<IN> cloud ferry <OUT> A cloud ferry took children to visit the top of a giant oak tree.
+<IN> sleepy bear <OUT> A sleepy bear found honey and shared it with lonely hikers.
+<IN> midnight pond <OUT> At the midnight pond, frogs performed a tiny musical for the moon.
+<IN> star painter <OUT> A star painter fixed holes in the night sky with glitter and glue.
+<IN> pebble singer <OUT> A pebble singer sang songs that made rivers giggle and ripple.
+<IN> tiny dolphin <OUT> A tiny dolphin led lost boats back to cozy harbors.
+<IN> sunflower field <OUT> In a sunflower field, children hid and the flowers played peekaboo.
+<IN> snow globe <OUT> A snow globe came to life and showed the child a winter kingdom.
+<IN> kind robot <OUT> A kind robot delivered smiles and warm socks to the neighborhood.
+<IN> rainbow kite <OUT> A rainbow kite flew away and returned with cloud postcards.
+<IN> moon bakery <OUT> The moon bakery baked glow-in-the-dark cookies for night travelers.
+<IN> whispering cave <OUT> Inside a whispering cave, echoes told jokes that made everyone laugh.
+<IN> tiny train <OUT> A tiny train chugged through the garden carrying toy passengers to tea.
+<IN> dancing leaves <OUT> Dancing leaves taught the children a wind dance they could follow home.
+<IN> secret recipe <OUT> An old recipe turned ordinary soup into a giggle potion for friends.
+<IN> cloud painter <OUT> A cloud painter brushed the sky with sleepy colors for bedtime.
+<IN> gentle river <OUT> A gentle river gave shiny stones that told stories of faraway lands.
+<IN> lighthouse kitten <OUT> A lighthouse kitten wore a tiny hat and guided lost boats to shore.
+<IN> magic umbrella <OUT> A magic umbrella kept rain away and let the flowers have a sunny day.
+<IN> tiny detective <OUT> A tiny detective solved the mystery of the missing socks with a magnifying glass.
+<IN> star messenger <OUT> A star messenger delivered tiny notes that made people smile.
+<IN> forest race <OUT> Rabbits and hedgehogs held a friendly race and shared carrot cake at the end.
+<IN> moon garden party <OUT> In the moon garden, owls and fireflies danced until dawn.
+<IN> sleepy lighthouse <OUT> The sleepy lighthouse blinked slowly and told stories to the ships.
+<IN> cloud bakery <OUT> The cloud bakery baked soft wind rolls that tasted like sunshine.
+<IN> pocket dragon <OUT> A pocket dragon fit in a child's pocket and warmed their hands on cold days.
+<IN> tiny astronaut <OUT> A tiny astronaut befriended a moon crab and they planted a smiling flag.
+<IN> magic seeds <OUT> Magic seeds grew into ladders that reached the treetops.
+<IN> friendly ghost <OUT> A friendly ghost helped clean up toys and made children giggle.
+<IN> crystal cave <OUT> In the crystal cave, glowing gems lit the path for two curious explorers.
+<IN> moon fox <OUT> A moon fox guided children across the night sky with its shimmering tail.
+<IN> windy valley <OUT> In the windy valley, the breeze carried messages from faraway lands.
+<IN> tiny baker <OUT> A tiny baker made cupcakes so sweet that birds sang thank-you songs.
+<IN> floating island <OUT> A floating island drifted close enough for children to hop on and explore.
+<IN> echo mountain <OUT> Echo Mountain repeated every joke twice, making everyone laugh even more.
+<IN> curious penguin <OUT> A curious penguin traveled north and learned how to ride bicycles.
+<IN> candy forest <OUT> In the candy forest, gumdrop trees whispered secrets of sweetness.
+<IN> sleepy volcano <OUT> A sleepy volcano puffed warm clouds that shaped into smiling animals.
+<IN> crystal river <OUT> A crystal river shimmered as fish danced beneath its sparkling surface.
+<IN> shy mermaid <OUT> A shy mermaid gained confidence by teaching children to swim with grace.
+<IN> rainbow deer <OUT> A rainbow deer painted the forest paths with colorful hoofprints.
+<IN> magic snowflake <OUT> A magic snowflake granted warmth to children lost in a snowstorm.
+<IN> drifting balloon <OUT> A drifting balloon carried a message that united two distant friends.
+<IN> whispering waves <OUT> The whispering waves taught a sailor how to listen to the ocean’s stories.
+<IN> gentle whale <OUT> A gentle whale showed kids the secret glow beneath the sea.
+<IN> night tiger <OUT> The night tiger guarded the jungle with glowing stripes that lit the way.
+<IN> tiny lion <OUT> A tiny lion learned to roar softly and comfort scared animals.
+<IN> enchanted violin <OUT> An enchanted violin played melodies that healed broken hearts.
+<IN> playful squirrel <OUT> A playful squirrel helped a girl find her lost bracelet in the tall grass.
+<IN> silver fox <OUT> A silver fox ran across starlit fields, guiding travelers home.
+<IN> magic paintbrush <OUT> A magic paintbrush brought a child’s drawings to life.
+<IN> warm breeze <OUT> A warm breeze wrapped around children like a cozy blanket.
+<IN> rainbow compass <OUT> A rainbow compass pointed the way to forgotten dreams.
+<IN> cloud lion <OUT> A lion made of clouds roared softly to start gentle rainfall.
+<IN> gentle wizard <OUT> A gentle wizard taught children how to grow kindness like flowers.
+<IN> tiny castle <OUT> A tiny castle opened its gates to children who spoke kindly.
+<IN> starlight fox <OUT> A starlight fox jumped through constellations and brought back sparkles.
+<IN> magic boots <OUT> Magic boots let a child hop across rivers without getting wet.
+<IN> forest classroom <OUT> Animals gathered in the forest classroom to learn about friendship.
+<IN> candy whale <OUT> A candy whale swam through sugar oceans and shared treats with sailors.
+<IN> pocket zebra <OUT> A pocket zebra helped a shy girl find courage for her first day at school.
+<IN> feather dragon <OUT> A feather dragon floated lightly and helped clouds find their shapes.
+<IN> glowing owl <OUT> A glowing owl lit the forest at night so hikers could return safely.
+<IN> berry fairy <OUT> A berry fairy sprinkled juice that made berries grow twice as sweet.
+<IN> sleeping river <OUT> When the river slept, the stones hummed lullabies for the forest.
+<IN> magic bell <OUT> A magic bell rang softly and called friendly fireflies to guide travelers.
+<IN> curious mole <OUT> A curious mole dug tunnels that connected lonely gardens.
+<IN> sky painter <OUT> A sky painter filled gray mornings with gentle pink and gold.
+<IN> brave rabbit <OUT> A brave rabbit rescued a chick from a deep hole.
+<IN> tiny wizard <OUT> A tiny wizard learned that small spells can make big smiles.
+<IN> sea of stars <OUT> A child sailed a tiny boat across a sea of stars in their dream.
+<IN> forest clock <OUT> A forest clock ticked in rhythm with the dancing leaves.
+<IN> golden fish <OUT> A golden fish granted a wish to a girl who saved its lake.
+<IN> candy mouse <OUT> A candy mouse helped children find hidden sweets in the garden.
+<IN> cloud turtle <OUT> A cloud turtle floated over towns carrying children for sky rides.
+<IN> story river <OUT> The story river told tales to anyone brave enough to dip their toes.
+<IN> gentle butterfly <OUT> A gentle butterfly comforted a crying child with soft wing hugs.
+<IN> moon twins <OUT> The moon twins lit the night with playful glow races.
+<IN> river fox <OUT> A river fox taught children to skip stones perfectly.
+<IN> starlight wolf <OUT> A starlight wolf howled melodies that made the stars shimmer brighter.
+<IN> cupcake dragon <OUT> A cupcake dragon baked treats that never burned, only glowed gently.
+<IN> whisper owl <OUT> A whisper owl shared wise secrets with children after sunset.
+<IN> pocket mouse <OUT> A pocket mouse collected crumbs to build tiny furniture.
+<IN> sleepy turtle <OUT> A sleepy turtle carried dreams on its shell like tiny lanterns.
+<IN> magic carpet <OUT> A magic carpet took kids on a ride over whispering sand dunes.
+<IN> wandering comet <OUT> A wandering comet left glowing trails for space explorers.
+<IN> tiny knight <OUT> A tiny knight protected the playground from imaginary dragons.
+<IN> enchanted pond <OUT> The enchanted pond reflected dreams instead of faces.
+<IN> dancing rabbit <OUT> A dancing rabbit taught children a joyful hop-step dance.
+<IN> sky whale <OUT> A sky whale soared gently above towns humming a deep tune.
+<IN> crystal fox <OUT> A fox made of crystal guided hikers with its shimmering light.
+<IN> candy dragon <OUT> A candy dragon gifted sweet clouds to children on stormy days.
+<IN> dream balloon <OUT> A dream balloon carried wishes high into the morning sun.
+<IN> silver dolphin <OUT> A silver dolphin showed kids hidden underwater caves.
+<IN> tiny mermaid <OUT> A tiny mermaid rescued seashells swept away by currents.
+<IN> night bear <OUT> A night bear glowed softly and led campers back to their tents.
+<IN> rainbow puppy <OUT> A rainbow puppy wagged its tail and colored the air with joy.
+<IN> gentle mermaid <OUT> A gentle mermaid sang songs that calmed stormy seas.
+<IN> glowing rabbit <OUT> A glowing rabbit hopped through the dark to help lost animals.
+<IN> enchanted kite <OUT> An enchanted kite flew through clouds leaving sparkles behind.
+<IN> pocket robot <OUT> A pocket robot fixed tiny broken toys with its glowing tools.
+<IN> sleepy fox <OUT> A sleepy fox yawned wide and the forest felt cozy again.
+<IN> moon duck <OUT> A moon duck paddled across shining puddles of moonlight.
+<IN> playful deer <OUT> A playful deer showed children how to jump over tiny streams.
+<IN> tiny explorer <OUT> A tiny explorer found treasure hidden inside a sunflower.
+<IN> berry mouse <OUT> A berry mouse helped kids pick the juiciest fruit.
+<IN> gentle breeze <OUT> A gentle breeze carried paper boats safely across the pond.
+<IN> night bunny <OUT> A night bunny glowed faintly and guided kittens home.
+<IN> lost star <OUT> A lost star fell into a meadow and children helped it return to the sky.
+<IN> friendly dolphin <OUT> A friendly dolphin spun circles to make children laugh.
+<IN> dream fox <OUT> A dream fox helped a child overcome their fears with sparkles.
+<IN> silver frog <OUT> A silver frog croaked a tune that made flowers dance.
+<IN> cloud dancer <OUT> A cloud dancer leapt gracefully and shaped the clouds into animals.
+<IN> sleepy wind <OUT> The sleepy wind wrapped around everyone like a soft blanket.
+<IN> tiny dragonfly <OUT> A tiny dragonfly led children to a hidden garden of glowing vines.
+<IN> whispering grass <OUT> The whispering grass told bedtime stories to fireflies.
+<IN> star turtle <OUT> A star turtle carried constellations on its shell like tiny lanterns.
+<IN> magic seedling <OUT> A magic seedling grew into a tree that gave hugs.
+<IN> river angel <OUT> A river angel sang lullabies to soothe the restless waters.
+<IN> dream kingdom <OUT> A dream kingdom opened its gates whenever children closed their eyes.
+<IN> laughing stars <OUT> The stars laughed softly when children made silly wishes.
+<IN> lantern moth <OUT> A lantern moth lit the path for hikers in the moonlit woods.
+<IN> tiny unicorn <OUT> A tiny unicorn healed sad hearts with its shimmering horn.
+<IN> story squirrel <OUT> A story squirrel told tales about every acorn it collected.
