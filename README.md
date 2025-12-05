@@ -1,3 +1,15 @@
+Below is a **clean, professional README.md** for your project — perfect for GitHub or your own documentation.
+
+It includes:
+
+✔ project overview
+✔ folder structure
+✔ installation
+✔ how to train (optional)
+✔ how to generate stories locally
+✔ common issues
+✔ screenshot placeholders
+
 ---
 
 # 📚 **README.md — Tiny StoryGPT (Keyword → Story Generator)**
@@ -191,3 +203,13 @@ MIT License
 ```
 
 ---
+
+# 🎉 That’s your complete README!
+
+If you want, I can also generate:
+
+✅ a GitHub repository template  
+✅ an icon/logo for your project  
+✅ a polished README with emojis and formatting  
+Just tell me!
+```
