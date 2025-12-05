@@ -1,3 +1,5 @@
+---
+
 # 📚 **README.md — Tiny StoryGPT (Keyword → Story Generator)**
 
 ```markdown
@@ -179,3 +181,13 @@ Pull requests with:
 * sampling (top-k, temperature)
 
 are welcome.
+
+---
+
+## 📜 License
+
+MIT License
+
+```
+
+---
