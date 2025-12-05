@@ -1,7 +1,3 @@
-
-
----
-
 # 📚 **README.md — Tiny StoryGPT (Keyword → Story Generator)**
 
 ```markdown
@@ -184,7 +180,7 @@ Pull requests with:
 
 are welcome.
 
----
+
 
 
 
